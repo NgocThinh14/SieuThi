@@ -1,3 +1,4 @@
+
 # Thư mục rác của Frontend (React)
 node_modules/
 dist/
@@ -12,3 +13,37 @@ target/
 .vscode/
 *.swp
 *.DS_Store
+
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/ 7ae23d67d79ded624fb58f9908285f1b3b8cf79d
